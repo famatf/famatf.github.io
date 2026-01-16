@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>fama的网站</title>
-    <link href="https://famatf/famatf.github.io/feed.xml" rel="self" />
-    <link href="https://famatf/famatf.github.io" />
+    <link href="https://famatf.com/feed.xml" rel="self" />
+    <link href="https://famatf.com" />
     <updated>2026-01-16T11:56:20+08:00</updated>
     <author>
         <name>famatf</name>
     </author>
-    <id>https://famatf/famatf.github.io</id>
+    <id>https://famatf.com</id>
 
     <entry>
         <title>直觉是我们唯一的系统：读《喧哗与骚动》英文本</title>
         <author>
             <name>famatf</name>
         </author>
-        <link href="https://famatf/famatf.github.io/zhi-jue-shi-wo-men-wei-yi-de-xi-tongdu-lesslessxuan-hua-yu-sao-donggreatergreater-ying-wen-ben.html"/>
-        <id>https://famatf/famatf.github.io/zhi-jue-shi-wo-men-wei-yi-de-xi-tongdu-lesslessxuan-hua-yu-sao-donggreatergreater-ying-wen-ben.html</id>
+        <link href="https://famatf.com/zhi-jue-shi-wo-men-wei-yi-de-xi-tongdu-lesslessxuan-hua-yu-sao-donggreatergreater-ying-wen-ben.html"/>
+        <id>https://famatf.com/zhi-jue-shi-wo-men-wei-yi-de-xi-tongdu-lesslessxuan-hua-yu-sao-donggreatergreater-ying-wen-ben.html</id>
             <category term="读书笔记"/>
 
         <updated>2026-01-16T11:49:41+08:00</updated>
@@ -63,8 +63,8 @@
         <author>
             <name>famatf</name>
         </author>
-        <link href="https://famatf/famatf.github.io/li-xiang-he-shen-tihuo-pu-te-man-de-lesslesschen-zhonggreatergreater.html"/>
-        <id>https://famatf/famatf.github.io/li-xiang-he-shen-tihuo-pu-te-man-de-lesslesschen-zhonggreatergreater.html</id>
+        <link href="https://famatf.com/li-xiang-he-shen-tihuo-pu-te-man-de-lesslesschen-zhonggreatergreater.html"/>
+        <id>https://famatf.com/li-xiang-he-shen-tihuo-pu-te-man-de-lesslesschen-zhonggreatergreater.html</id>
             <category term="读书笔记"/>
 
         <updated>2026-01-16T11:34:39+08:00</updated>

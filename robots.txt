@@ -4,4 +4,4 @@ User-agent: GPTBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://famatf/famatf.github.io/sitemap.xml
+Sitemap: https://famatf.com/sitemap.xml

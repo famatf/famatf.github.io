@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://famatf/famatf.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://famatf.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://famatf/famatf.github.io/</loc>
+<loc>https://famatf.com/</loc>
 </url>
 <url>
-<loc>https://famatf/famatf.github.io/about-me.html</loc>
+<loc>https://famatf.com/about-me.html</loc>
 <lastmod>2026-01-16T11:54:28+08:00</lastmod>
 <image:image>
-<image:loc>https://famatf/famatf.github.io/media/posts/1/22-4.png</image:loc>
+<image:loc>https://famatf.com/media/posts/1/22-4.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://famatf/famatf.github.io/li-xiang-he-shen-tihuo-pu-te-man-de-lesslesschen-zhonggreatergreater.html</loc>
+<loc>https://famatf.com/li-xiang-he-shen-tihuo-pu-te-man-de-lesslesschen-zhonggreatergreater.html</loc>
 <lastmod>2026-01-16T11:47:22+08:00</lastmod>
 </url>
 <url>
-<loc>https://famatf/famatf.github.io/zhi-jue-shi-wo-men-wei-yi-de-xi-tongdu-lesslessxuan-hua-yu-sao-donggreatergreater-ying-wen-ben.html</loc>
+<loc>https://famatf.com/zhi-jue-shi-wo-men-wei-yi-de-xi-tongdu-lesslessxuan-hua-yu-sao-donggreatergreater-ying-wen-ben.html</loc>
 <lastmod>2026-01-16T11:56:20+08:00</lastmod>
 </url>
 </urlset>
